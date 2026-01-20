@@ -2,9 +2,7 @@
 
 
 
-Este diretório contém mini-projetos focados em Programação
-
-Orientada a Objetos em Java.
+Este diretório contém mini-projetos focados em Programação Orientada a Objetos em Java.
 
 
 
